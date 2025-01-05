@@ -1,5 +1,6 @@
 from supervision.detection.core import Detections
 import cv2
+import numpy as np
 
 def get_bboxes(results, best=False):
     best_idx = 0
