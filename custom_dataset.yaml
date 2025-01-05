@@ -1,0 +1,7 @@
+train: D:\ezocr\dataset\train
+val: D:\ezocr\dataset\val
+test: D:\ezocr\dataset\test
+
+nc: 1
+
+names: ["consent"]
